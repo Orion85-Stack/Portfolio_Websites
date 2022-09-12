@@ -6,10 +6,10 @@ what I am able to do and complete.
 ## Smaller and stand-alone projects
 In this section you can see the different projects and stand alone apps that I created
 
-1) [Form Validator](https://github.com/Orion85-Stack/Form_Validator.git)
+1) [Form Validator](https://github.com/Orion85-Stack/Form_Validator.git) <br>
 Details : 
 
-2) [Movie seat booking app](https://github.com/Orion85-Stack/Movie_seat_booking.git)
+2) [Movie seat booking app](https://github.com/Orion85-Stack/Movie_seat_booking.git) <br>
 Details:
 
 
