@@ -22,5 +22,3 @@ In this section you will see some of the bigger projects I created and worked on
 
 2. [Creative Design](https://github.com/Orion85-Stack/Creative_Design.git) <br>
    Details :
-
-test
