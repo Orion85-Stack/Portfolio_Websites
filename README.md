@@ -23,5 +23,5 @@ In this section you will see some of the bigger projects I created and worked on
    Details :
 
 2. [Creative Design Repo](https://github.com/Orion85-Stack/Creative_Design.git) <br>
-   [Webpage}(https://graceful-baklava-07ba22.netlify.app) <br>
+   [Webpage](https://graceful-baklava-07ba22.netlify.app) <br>
    Details :
