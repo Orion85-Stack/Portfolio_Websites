@@ -26,3 +26,11 @@ In this section you will see some of the bigger projects I created and worked on
 2. [Creative Design Repo](https://github.com/Orion85-Stack/Creative_Design.git) <br>
    [Webpage](https://graceful-baklava-07ba22.netlify.app) <br>
    Details :
+
+## Projects for Clients
+
+In this section I showcase various sites that I have created for clients.
+
+1. [Thrill Projects Pty Ltd](https://github.com/Orion85-Stack/Thrill_projects.git) <br>
+   [Webpage](https://inspiring-sprite-c8ba7f.netlify.app) <br>
+   Details:
