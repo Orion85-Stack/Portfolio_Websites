@@ -26,7 +26,7 @@ In this section you will see some of the bigger projects I created and worked on
    [Webpage](https://graceful-baklava-07ba22.netlify.app) <br>
    Details :
    
-3. [Business Agency Website](https://github.com/Orion85-Stack/03_Business_Agency_website.git) <br>
+3. [Business Agency Website Repo](https://github.com/Orion85-Stack/03_Business_Agency_website.git) <br>
    [Webpage](https://transcendent-nougat-efcc82.netlify.app/) <br>
    Details : 
 
