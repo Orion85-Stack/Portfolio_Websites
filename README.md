@@ -1,4 +1,4 @@
-# Portfolio_Websites
+# Kalon Designs Websites
 
 Welcome to my personal website where you can browse and see the websites that I have created / designed and smaller projects that I created. To showcase
 what I am able to do and complete.
