@@ -79,3 +79,5 @@ University of Pretoria (2004 - 2008) (Bcom Accounting Science)
 - Taxation
 - Management Accounting
 
+Courses Taken
+
