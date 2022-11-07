@@ -10,8 +10,8 @@ Welcome to my personal website where you can see the websites that I have create
 |------------------|----------------|-----------|----------------|
 |HTML 5            |Tailwind        | Python    | Power BI       |
 |CSS + CSS 3       |                |           | Tableau        |
-|Javascript        |
-|Markdown          |
+|Javascript        |                |           |                |
+|Markdown          |                |           |                |
 
 ### Work Experience
 
