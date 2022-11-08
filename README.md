@@ -15,11 +15,12 @@ Welcome to my personal website where you can see the websites that I have create
 
 ### Work Experience
 
-Ferring (Pty) Ltd (2018 - Present)
+Ferring (Pty) Ltd (2018 - Present) <br>
 Financial Analyst / Financial Accountant
 
 
-Globeflight (Pty) Ltd + Global Options (2012 - 2018)
+Globeflight (Pty) Ltd + Global Options (2012 - 2018) <br>
+Financial Accountant
 
 ---
 ## Smaller and stand-alone projects
